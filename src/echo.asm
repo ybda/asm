@@ -1,4 +1,3 @@
-
 section .bss
     buffer resb 64   ; Uninitialized buffer to store user input
 
